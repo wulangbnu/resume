@@ -39,7 +39,7 @@
  
  * **DEMO**：[demo.532movie.com](http://demo.532movie.com)
  * 日UV **11,000** 日PV **96,000**
- * LNMP架构，H.264/FFMPEG视频压缩转码，HLS视频切片，Varnish切片缓存，分布式点播系统，弹幕
+ * LNMP架构，H.264/AVC视频压缩编码，HLS视频切片，Varnish切片缓存，分布式点播系统，弹幕
  * 提供后台数据[API](http://demo.532movie.com/api.v1.html)，先后上线[iOS客户端](https://itunes.apple.com/cn/app/532movie/id1064883691)和[Android客户端](mileyjinxi.com/532movie/532movie.apk.html)，上线两天内下载量均破千次
 
 ## RFID人员管理演示系统（2012年5月 ~ 2013年5月）
