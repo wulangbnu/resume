@@ -33,14 +33,14 @@
 
 # 项目经历
  
-## 532movie （2013年11月 ~）
+## 532movie（2013年11月 ~）
  
  532为本科宿舍号，带领宿舍成员创立532movie校内视频网站，成为北师大最受欢迎的校内网站。
  
  * **DEMO**：[demo.532movie.com](http://demo.532movie.com)
  * 日UV **11,000** 日PV **96,000**
  * LNMP架构，H.264/AVC视频压缩编码，HLS视频切片，Varnish切片缓存，分布式点播系统，弹幕
- * 提供后台数据[API](http://demo.532movie.com/api.v1.html)，先后上线[iOS客户端](https://itunes.apple.com/cn/app/532movie/id1064883691)和[Android客户端](mileyjinxi.com/532movie/532movie.apk.html)，上线两天内下载量均破千次
+ * 提供后台数据[API](http://demo.532movie.com/api.v1.html)，先后上线[iOS客户端](https://itunes.apple.com/cn/app/532movie/id1064883691)和[Android客户端](http://mileyjinxi.com/532movie/532movie.apk.html)，上线两天内下载量均破千次
 
 ## RFID人员管理演示系统（2012年5月 ~ 2013年5月）
 
@@ -52,11 +52,11 @@
 
 # 实习经历
  
-## 微软创投加速器第五期成员 GEOHEY （2014年8月 ~ 2014年9月）
+## 微软创投加速器第五期成员 GEOHEY（2014年8月 ~ 2014年9月）
 
 [GEOHEY](https://geohey.com/)是一家提供地理SaaS一站式解决方案的创业公司，实习时公司一共只有4人。一周时间学习和适应Java服务端编程，完成公司创业初期的展示demo，使用户可个性化配置地图，完成g-server的mapping功能。
  
-## VMware（威睿）中国软件开发中心 （2014年1月 ~ 2014年4月）
+## VMware中国软件开发中心（2014年1月 ~ 2014年4月）
 
 参与EUC Mirage项目组VMware Mirage软件的自动化测试用例的设计与编写，维护和升级自动化测试框架。初步完成Mirage Gateway Linux版本的shell安装脚本。
 
