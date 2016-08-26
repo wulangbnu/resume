@@ -52,6 +52,14 @@
 
 # 实习经历
  
+## Opera News (2016年4月 ~ 2016年8月)
+
+原有Opera手机浏览器加入新闻推荐功能，主打国际市场。
+
+* A/B testing 系统(Mars)，主要由 WebManager(pyramid + jinja2 + mysql)、VersionManager(thrift)、LogManager(kafka) 三大模块构成
+* CMS 后台管理系统，供产品和各国运营人员运营产品
+* 开发初期，开发web版的测试工具，供算法和Client API便捷调试
+ 
 ## 微软创投加速器第五期成员 GEOHEY（2014年8月 ~ 2014年9月）
 
 [GEOHEY](https://geohey.com/)是一家提供地理SaaS一站式解决方案的创业公司，实习时公司一共只有4人。一周时间学习和适应Java服务端编程，完成公司创业初期的展示demo，使用户可个性化配置地图，完成g-server的mapping功能。
