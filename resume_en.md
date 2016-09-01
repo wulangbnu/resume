@@ -12,17 +12,10 @@
 
 * 2010-2014 Undergraduate at College of Information Science and Technology(CIST), Beijing Normal University(BNU), majored in Computer Science and Technology.
 
-# Skills
-
-* Master C/C++ Language
-* Skilled in PHP, Java and Python Language
-* Skilled in Unix & Linux System
-* Familiar with database principle and SQL Language, redis
-
 # Awards
 
 * 2015.05 First prize of "Schlumberger" Debug Cup contest
-* 2014.10 The ACM-ICPC Asia Regional Contest Anshan Site 2014 Gold Medal
+* 2014.10 The ACM-ICPC Asia Regional Contest Anshan Site 2014 **Gold Medal**
 * 2014.06 Outstanding graduate of Beijing Normal University
 * 2013.06 Google Excellence Scholarship
 * 2013.06 First prize of 21st "Jingshi Cup" extracurricular academic science and technology work contest
@@ -34,7 +27,7 @@
 
 # Practice
 
-## 2016.04 ~ 2016.07 Opera News
+## Opera News (2016.04 ~ 2016.08)
 
 The new version of opera with the feature of news recommendation.
 
@@ -43,21 +36,21 @@ The new version of opera with the feature of news recommendation.
 * News web test tool
 * Log collecting and statistics tool for recommendation algorithm
 
-## 2013 ~ 2014 532movie
+## 532movie (2013.11 ~ )
 
-532 is the number of my undergraduate dormitory, led my roommate create the 532movie video site, and then become the most popular site in BNU(Beijing Normal University).
+532 is the number of my undergraduate dormitory, led my roommate create the 532movie video site, and then become the most popular site in Beijing Normal University.
 
 * **DEMO**：[demo.532movie.com](http://demo.532movie.com)
 * DUV **11,000** DPV **96,000**
 * [Client API](http://demo.532movie.com/api.v1.html)，online [iOS APP](https://itunes.apple.com/cn/app/532movie/id1064883691) and [Android APP](http://mileyjinxi.com/532movie/532movie.apk.html)，downloads reach thousands in first 2 days each 
 
-## 2014.08 GEOHEY
+## GEOHEY (2014.08)
 
 GEOHEY is a one-stop solution to provide geographic SaaS startups, MAV(Microsoft Ventures Accelerator) 5th member.
 
 * g-server mapping demo that users can personalize their map
 
-## 2014.01 ~ 2014.03 VMware China Software Development Center
+## VMware China Software Development Center (2014.01 ~ 2014.04)
 
 * Automatic testing for the EUC Mirage Project
 

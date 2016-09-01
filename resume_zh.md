@@ -13,7 +13,7 @@
 # 获奖及竞赛
 
 * 2015年05月 中科院计算所首届“斯伦贝谢”杯Debug大赛一等奖
-* 2014年10月 第39届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛鞍山站金奖
+* 2014年10月 第39届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛鞍山站**金奖**
 * 2014年06月 北京师范大学优秀毕业生
 * 2013年06月 Google优秀奖学金
 * 2013年06月 第二十一届“京师杯”课外学术科技作品竞赛一等奖
@@ -29,31 +29,23 @@
 
 在原有Opera手机浏览器上加入新闻推荐、twitter社交绑定功能，为用户推荐感兴趣的以及你关注的朋友tweet的新闻，实习结束前产品分别在美国和印度尼西亚上线。
 
-* A/B testing 系统(代号Mars)，由 WebManager、VersionManager、LogManager 三个模块构成，为算法和产品提供AB测试环境，帮助决策。
-* CMS 后台管理系统，供产品和各国运营人员运营产品
-* 开发初期，开发web版的测试工具，供算法和Client API便捷调试
+* A/B testing 系统(代号Mars)，由 WebManager、VersionManager、LogManager 三个模块构成，帮助算法和产品决策。
+* News CMS 新闻后台管理系统，为产品和运营人员提供新闻转码、编辑、入库服务，及trending、hot topic等新闻的管理功能。
+* 开发初期，开发web版的测试工具，方便算法和Client API调试
  
 ## 532movie（2013年11月 ~）
  
- 532为本科宿舍号，带领宿舍成员创立532movie校内视频网站，成为北师大最受欢迎的校内网站。
+ 532为本科在北师大就读时的宿舍号，带领宿舍成员创立532movie校内视频网站，成为北师大最受欢迎的校内网站。
  
  * **DEMO**：[demo.532movie.com](http://demo.532movie.com)
- * 日UV **11,000** 日PV **96,000**
- * LNMP架构，H.264/AVC视频压缩编码，HLS视频切片，Varnish切片缓存，分布式点播系统，弹幕
+ * DAU **11,000** 日PV约 **96,000**
+ * LNMP架构，H.264/AVC视频压缩编码，HLS视频切片，Varnish切片内存缓存，分布式点播系统，弹幕
  * 提供后台数据[API](http://demo.532movie.com/api.v1.html)，先后上线[iOS客户端](https://itunes.apple.com/cn/app/532movie/id1064883691)和[Android客户端](http://mileyjinxi.com/532movie/532movie.apk.html)，上线两天内下载量均破千次
 
-## RFID人员管理演示系统（2012年5月 ~ 2013年5月）
+## 微软创投加速器第五期成员 GEOHEY（2014年8月）
 
-利用射频识别(Radio Frequency IDentification, RFID)、无线通信等技术，采用高低频协作的创新工作模式与关系型邻近定位算法，构造一个覆盖所选区域的“Internet Of People(IOP)”。
+[GEOHEY](https://geohey.com/)是一家提供地理SaaS一站式解决方案的创业公司，实习时公司一共只有4人。一周时间学习和适应Java服务端编程，完成公司创业初期的展示demo，使用户可个性化配置地图，基本完成g-server的mapping功能。
 
-* 北京市大学生科学研究与创业行动计划，项目主持人
-* 项目评审获得**校级优秀项目**
-* [项目论文](http://demo.532movie.com/532movie/%E7%89%A9%E8%81%94%E7%BD%91RFID%E4%BA%BA%E5%91%98%E7%AE%A1%E7%90%86%E6%BC%94%E7%A4%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%A0%94%E7%A9%B6%E5%8F%8A%E5%BA%94%E7%94%A8.pdf)获得第二十一届“京师杯”课外学术科技作品竞赛一等奖
- 
-## 微软创投加速器第五期成员 GEOHEY（2014年8月 ~ 2014年9月）
-
-[GEOHEY](https://geohey.com/)是一家提供地理SaaS一站式解决方案的创业公司，实习时公司一共只有4人。一周时间学习和适应Java服务端编程，完成公司创业初期的展示demo，使用户可个性化配置地图，完成g-server的mapping功能。
- 
 ## VMware中国软件开发中心（2014年1月 ~ 2014年4月）
 
 参与EUC Mirage项目组VMware Mirage软件的自动化测试用例的设计与编写，维护和升级自动化测试框架。初步完成Mirage Gateway Linux版本的shell安装脚本。
@@ -61,6 +53,4 @@
 # 其他经历
 
 骑行川藏线（2015年7月18日 ~ 2015年8月11日），历时25天，2200多公里，翻越14座高山，用两只26寸车轮完成从武侯祠到布达拉宫的318骑行之旅。
-
-
 
